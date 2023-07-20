@@ -1,5 +1,9 @@
 # penguinArch
+- Author: [p3nguin-kun](https://github.com/p3nguin-kun)
+- Discord server: [penguinClan](https://discord.gg/fxeSRbVfkK)
+
 penguinArch is an Arch-based Linux distro that focus on simplicity, sustainability and user freedom.
+
 | Catppuccin | Dracula | Everforest |
 | :--------- | :------ | :--------- |
 | ![img](https://i.imgur.com/fhWPCbv.png) | ![img](https://i.imgur.com/dyUdecT.png) | ![img](https://i.imgur.com/1EULM9G.png) |
