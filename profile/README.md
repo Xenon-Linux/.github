@@ -7,15 +7,3 @@ penguinArch is an Arch-based Linux distro that focus on simplicity, sustainabili
 | ![img](https://i.imgur.com/Qmlu2Ho.png) | ![img](https://i.imgur.com/qikOIUq.png) | ![img](https://i.imgur.com/Cl3UgQD.png) |
 | Cozy |
 | ![img](https://i.imgur.com/CEKqi18.png) |
-
-# Installation
-- Download penguinArch iso
-- Flash iso into an usb
-- Boot into usb
-- Login
-```
-user: live
-pass: live
-```
-- Run the installer
-```sudo calamares```
